@@ -1,5 +1,4 @@
 
-
 # Roblox Points System with Touch Parts
 
 This script creates a points system in Roblox where players can earn points by touching specific parts. The points are tracked in a leaderboard, and each part awards a different score.
@@ -118,6 +117,15 @@ local PointsConfig = {
 
 2. **Score Not Updating**:
    - Ensure the `leaderstats` folder and `Score` value are correctly created for the player.
+
+---
+
+## Additional Resources
+
+- **GitHub Repository**: [Access the scripts here](https://github.com/sugeng-riyanto/Scoring-or-add-points-in-Roblox/tree/main)
+- **YouTube Tutorial**: [Watch this video for a detailed tutorial](https://youtu.be/aWoBaKOk1_c)
+
+[![Watch the video](https://img.youtube.com/vi/aWoBaKOk1_c/0.jpg)](https://youtu.be/aWoBaKOk1_c)
 
 ---
 

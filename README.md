@@ -123,9 +123,9 @@ local PointsConfig = {
 ## Additional Resources
 
 - **GitHub Repository**: [Access the scripts here](https://github.com/sugeng-riyanto/Scoring-or-add-points-in-Roblox/tree/main)
-- **YouTube Tutorial**: [Watch this video for a detailed tutorial](https://youtu.be/aWoBaKOk1_c)
+- **YouTube Tutorial**: [Watch this video for a detailed tutorial](https://youtu.be/WpsBeFhSqR8)
 
-[![Watch the video](https://img.youtube.com/vi/aWoBaKOk1_c/0.jpg)](https://youtu.be/aWoBaKOk1_c)
+[![Watch the video](https://img.youtube.com/vi/WpsBeFhSqR/0.jpg)](https://youtu.be/WpsBeFhSqR8)
 
 ---
 
